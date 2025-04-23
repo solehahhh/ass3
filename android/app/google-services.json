@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851684902020",
+    "project_id": "fb-project-faea6",
+    "storage_bucket": "fb-project-faea6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851684902020:android:34e46e79e835149fecaed1",
+        "android_client_info": {
+          "package_name": "com.example.ass3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxsFDXSIXu5b6XhHNz7sqGGT9L34NOHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
